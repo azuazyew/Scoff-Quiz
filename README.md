@@ -1,2 +1,2 @@
 # Scoff-Quiz
-Quiz app
+Quiz app development
