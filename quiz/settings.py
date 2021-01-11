@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'o&gex1s*2)ij8yy&_509wjdwv)jxhl63=x-*_@6thgnk!o06zc'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','scoffquiz.herokuapp.com/']
 
 
 # Application definition
